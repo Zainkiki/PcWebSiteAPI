@@ -1,0 +1,12 @@
+@PcWebSiteAPI_HostAddress = http://localhost:5046
+
+### Get all products
+
+GET {{PcWebSiteAPI_HostAddress}}/api/products
+Accept: application/json
+
+### Get all brands
+
+GET {{PcWebSiteAPI_HostAddress}}/api/brands
+Accept: application/json
+
