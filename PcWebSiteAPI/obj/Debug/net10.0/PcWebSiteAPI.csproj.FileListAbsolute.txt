@@ -164,3 +164,4 @@ C:\Users\temp\source\repos\PcWebSiteAPI\PcWebSiteAPI\obj\Debug\net10.0\refint\Pc
 C:\Users\temp\source\repos\PcWebSiteAPI\PcWebSiteAPI\obj\Debug\net10.0\PcWebSiteAPI.pdb
 C:\Users\temp\source\repos\PcWebSiteAPI\PcWebSiteAPI\obj\Debug\net10.0\PcWebSiteAPI.genruntimeconfig.cache
 C:\Users\temp\source\repos\PcWebSiteAPI\PcWebSiteAPI\obj\Debug\net10.0\ref\PcWebSiteAPI.dll
+C:\Users\temp\source\repos\PcWebSiteAPI\PcWebSiteAPI\obj\Debug\net10.0\PcWebSiteAPI.sourcelink.json
