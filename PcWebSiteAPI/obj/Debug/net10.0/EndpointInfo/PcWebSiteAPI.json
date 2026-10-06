@@ -385,7 +385,14 @@
             "format": "double"
           },
           "brand": {
-            "$ref": "#/components/schemas/Brand"
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/Brand"
+              }
+            ]
           },
           "orderItems": {
             "type": "array",
